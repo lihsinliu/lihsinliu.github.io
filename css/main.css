@@ -74,4 +74,15 @@ a:hover {
 #space {
 	margin-bottom: 100px;
 }
-</style>
+
+
+
+div.item{
+	display: inline;
+	width: 33.33%;
+	padding: 1px;
+}
+
+div.item .img{max-width: 33.33%;}
+
+
